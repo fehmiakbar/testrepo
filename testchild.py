@@ -1,2 +1,2 @@
 ## adding a new file in child brach 
-print ("Inside Chind branch")
+print ("Inside Child branch")
